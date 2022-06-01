@@ -107,7 +107,7 @@ Review
 You are required to submit BOTH of the following for review:
 
 
-The URL of the deployed application.
+The URL of the deployed application. https://alyak66.github.io/Kayla-Portfolio-1/
 
 
-The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project.
+The URL of the GitHub repository that contains your code. Give the repository a unique name and include a README file that describes the project. https://github.com/alyak66/Kayla-Portfolio-1/
